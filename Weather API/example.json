@@ -1,0 +1,41 @@
+{
+  "request": {
+    "type": "City",
+    "query": "Johannesburg, South Africa",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Johannesburg",
+    "country": "South Africa",
+    "region": "Gauteng",
+    "lat": "-26.200",
+    "lon": "28.083",
+    "timezone_id": "Africa\/Johannesburg",
+    "localtime": "2021-07-12 11:36",
+    "localtime_epoch": 1626089760,
+    "utc_offset": "2.0"
+  },
+  "current": {
+    "observation_time": "09:36 AM",
+    "temperature": 15,
+    "weather_code": 113,
+    "weather_icons": [
+      "https:\/\/assets.weatherstack.com\/images\/wsymbols01_png_64\/wsymbol_0001_sunny.png"
+    ],
+    "weather_descriptions": [
+      "Sunny"
+    ],
+    "wind_speed": 28,
+    "wind_degree": 320,
+    "wind_dir": "NW",
+    "pressure": 1027,
+    "precip": 0,
+    "humidity": 39,
+    "cloudcover": 0,
+    "feelslike": 15,
+    "uv_index": 4,
+    "visibility": 10,
+    "is_day": "yes"
+  }
+}

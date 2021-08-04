@@ -1,0 +1,3 @@
+key::: dc43671ece1b9a6caad73585a1db9b38
+
+http://api.weatherstack.com/current?access_key=dc43671ece1b9a6caad73585a1db9b38&query=Johannesburg
